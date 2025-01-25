@@ -47,13 +47,15 @@ Chatify is a feature-rich, full-stack chat application designed to provide seaml
 
 ##  Project Structure
 
+```js
+
 chatify/
 ├── client/         # React frontend
 ├── server/         # Node.js backend
 ├── .env            # Environment variables
 ├── package.json    # Project dependencies
 └── README.md       # Project documentation
-
+```
 
 ### Setup .env file
 
