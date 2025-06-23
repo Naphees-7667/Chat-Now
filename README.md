@@ -1,8 +1,8 @@
-# ✨ Chatify - A Full Stack Realtime Chat Application ✨
+# ✨ Chat-Now - A Full Stack Realtime Chat Application ✨
 
 ## 🌟 Overview
 
-Chatify is a feature-rich, full-stack chat application designed to provide seamless real-time communication. Built using modern technologies, Chatify ensures secure, efficient, and user-friendly interactions with a visually appealing design.
+Chat-Now is a feature-rich, full-stack chat application designed to provide seamless real-time communication. Built using modern technologies, Chat-Now ensures secure, efficient, and user-friendly interactions with a visually appealing design.
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +49,7 @@ Chatify is a feature-rich, full-stack chat application designed to provide seaml
 
 ```js
 
-chatify/
+Chat-Now/
 ├── client/         # React frontend
 ├── server/         # Node.js backend
 ├── .env            # Environment variables
