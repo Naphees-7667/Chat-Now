@@ -10,7 +10,7 @@ Chat-Now is a feature-rich, full-stack chat application designed to provide seam
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Real-Time Communication**: Socket.io
-- **State Management**: Zustand
+- **State Management**: Redux
 
 ## 🚀 Features
 
@@ -27,7 +27,7 @@ Chat-Now is a feature-rich, full-stack chat application designed to provide seam
 - Presence updates dynamically when users join or leave the app.
 
 ### Global State Management
-- Efficient state management with **Zustand** for a smooth user experience.
+- Efficient state management with **Redux** for a smooth user experience.
 
 ### Error Handling
 - **Client-side**: Informative error messages for better UX.
